@@ -1,0 +1,13 @@
+.wrap {
+    width: 200px;
+    height: 400px;
+    border: 1px solid #FF0000;
+    background-color: #bdbdbd;
+}
+
+.content {
+    width: 400px;
+    height: 200px;
+    border: 1px solid #000000;
+    background-color: #FF0000;
+}
